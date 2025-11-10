@@ -1,5 +1,5 @@
-title: "Mi Blog de Práctica"
-description: "Actividad 1 – Desarrollo de Aplicaciones en Red"
-theme: minima
-minima:
-  skin: classic
+title: "Mi Blog"
+description: "Blog de ejemplo para la Práctica 1"
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
