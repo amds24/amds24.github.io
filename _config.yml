@@ -1,3 +1,14 @@
-title: "Mi blog"
-description: "Blog de práctica: Salvador Dali"
+title: "Mi Blog"
+description: "Arte y vida de Salvador Dalí"
 theme: minima
+
+minima:
+  skin: dark    
+
+
+header_pages:
+  - index.md
+  - about.md
+
+
+github_username: amds24
