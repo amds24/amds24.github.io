@@ -3,4 +3,4 @@ layout: home
 title: "Inicio"
 ---
 
-Bienvenida a mi blog. Abajo verás las entradas más recientes.
+Bienvenid@ a mi blog. Abajo verás las entradas más recientes :)
