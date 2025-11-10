@@ -1,4 +1,37 @@
-body { line-height: 1.7; max-width: 860px; margin: auto; padding: 1rem; }
-img { max-width: 100%; border-radius: 8px; }
-.post-title { font-weight: 700; }
-.site-title, .site-nav a { text-decoration: none; }
+
+body { line-height: 1.8; }
+.post-list { list-style: none; padding: 0; }
+
+
+.post-list > li {
+  margin: 1rem 0;
+  padding: 1rem 1.2rem;
+  border: 1px solid #e2e2e2;
+  border-radius: 14px;
+  box-shadow: 0 3px 12px rgba(0,0,0,.06);
+  transition: transform .12s ease;
+}
+.post-list > li:hover { transform: translateY(-2px); }
+
+
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+
+img { max-width: 100%; border-radius: 12px; }
+
+
+.page-content h1:first-of-type {
+  font-size: 2rem;
+  margin-bottom: .5rem;
+}
+.page-content p:first-of-type {
+  opacity: .9;
+  margin-top: 0;
+}
+
+
+.btn {
+  display: inline-block; padding: .6rem 1rem; border-radius: 10px;
+  border: 1px solid #ddd;
+}
