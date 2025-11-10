@@ -1,0 +1,4 @@
+body { line-height: 1.7; max-width: 860px; margin: auto; padding: 1rem; }
+img { max-width: 100%; border-radius: 8px; }
+.post-title { font-weight: 700; }
+.site-title, .site-nav a { text-decoration: none; }
