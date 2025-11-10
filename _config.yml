@@ -1,5 +1,15 @@
-title: "Mi Blog"
-description: "Blog de ejemplo para la Práctica 1"
+title: "Blog de Dalí"
+description: "Un recorrido visual y personal por la vida y obra de Salvador Dalí"
 remote_theme: pages-themes/cayman@v0.2.0
+
 plugins:
   - jekyll-remote-theme
+
+# Opciones visibles del sitio
+show_downloads: false
+
+# Configuración de navegación (opcional)
+navbar-links:
+  Inicio: /
+  Sobre mí: /about/
+  Entradas: /posts/
